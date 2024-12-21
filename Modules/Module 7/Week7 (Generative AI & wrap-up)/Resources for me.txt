@@ -1,0 +1,13 @@
+Explain GPT and transformers:
+https://newsletter.theaiedge.io/p/the-chatgpt-models-family
+https://www.ericjwang.com/2023/01/22/transformers.html
+
+Gen AI in a nutshell:
+https://www.youtube.com/watch?v=2IK3DFHRFfw
+
+Gen AI Art:
+https://www.youtube.com/watch?v=Rke0V_VkF3c
+https://www.youtube.com/watch?v=SVcsDDABEkM
+
+Gen AI Multimodal:
+https://www.youtube.com/watch?v=WkoytlA3MoQ
